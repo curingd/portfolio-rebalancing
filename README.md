@@ -15,3 +15,4 @@ Known limitations of the project are:
 
 1. The data used was subject to survivorship and lookahead biases (unadjusted for delistings);
 2. The 2006-2026 period used crosses multiple economic regimes which may have impacted the results.
+3. Transactions costs were modelled on a proportional rather than an absolute basis.
